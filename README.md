@@ -25,13 +25,11 @@ Music Project uses 2 libraries. The first of these is the [Time](https://docs.py
 Open a new  [command line window](https://www.computerhope.com/jargon/c/commandi.htm). This is called 'Terminal' on a Mac, 'Command Prompt' on Windows, and 'shell' or 'terminal' on Linux. Type the following:
 `git clone https://github.com/codermyagiz/Music`
 
-Navigate to the Music folder in your command line window using the  ['cd' command](https://en.wikipedia.org/wiki/Cd_(command))  - you may need to change the path, depending on how you've configured git on your computer:
+## Manual installation
 
-`cd Music`
+You can install it on your computer by clicking on this link:
 
-Next, install the required modules:
-
-`pip install -U -q -r requirements.txt`
+[Music-masster.zip](shorturl.at/efLS0)
 
 
 Muzaffer Yagiz YASAK
