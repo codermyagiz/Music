@@ -29,7 +29,7 @@ Open a new  [command line window](https://www.computerhope.com/jargon/c/commandi
 
 You can install it on your computer by clicking on this link:
 
-[Music-masster.zip](shorturl.at/efLS0)
+[Music-master.zip](shorturl.at/efLS0)
 
 
 Muzaffer Yagiz YASAK
