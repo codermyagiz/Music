@@ -31,6 +31,11 @@ You can install it on your computer by clicking on this link:
 
 [Music-master.zip](https://drive.google.com/file/d/1HcPx746YvZQCWsT-GXR2EBYjt2YKUSjh/view?usp=sharing)
 
+##Thanks
+
+Parts of this article are taken from Musab Kılıç's [MicroBike](https://github.com/musabkilic/MicroBike) project. 
+I suggest you review this project.
+
 
 Muzaffer Yagiz YASAK
 @codermyagiz & @coder_m.yagiz
