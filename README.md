@@ -34,3 +34,5 @@ You can install it on your computer by clicking on this link:
 
 Muzaffer Yagiz YASAK
 @codermyagiz & @coder_m.yagiz
+
+MIT License
