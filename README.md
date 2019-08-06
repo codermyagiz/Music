@@ -1,6 +1,6 @@
 #        Make your own music!
 
-https://img.shields.io/badge/license-MIT-orange
+
 
 Hi! I'm Muzaffer Yagiz Yasak 14 years old programmer. This is the my python project. I hope you like it.
 ##  Pages
