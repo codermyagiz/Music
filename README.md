@@ -1,5 +1,6 @@
 #        Make your own music!
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-size="large" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
 Hi! I'm Muzaffer Yagiz Yasak 14 years old programmer. This is the my python project. I hope you like it.
 ##  Pages
 
