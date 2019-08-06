@@ -38,6 +38,9 @@ You can install it on your computer by clicking on this link:
 Parts of this article are taken from Musab Kılıç's [MicroBike](https://github.com/musabkilic/MicroBike) project. 
 I suggest you review this project.
 
+## Note:
+
+The project is **not currently in English** but will come out in English version as soon as possible.
 
 Muzaffer Yagiz YASAK
 @codermyagiz & @coder_m.yagiz
