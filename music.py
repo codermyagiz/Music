@@ -1,5 +1,4 @@
 #encoding = UTF-8
-#@coder_m.yagiz or @codermyagiz tüm sosyal platformlar
 
 import time
 import winsound #şarkıları oynatmak için
@@ -31,5 +30,4 @@ if secim == 3:
 	time.sleep(2)
     print("Aklını ferah tut, arkana bakma\nSöylenenlere aldırma, asla pes etme {}\nCesaretini hemen topla\nHadi düşünsene {}".format(isim,isim))
 
-    #Not: Girişimciliğinize özel şarkısındaki bazı bölümler Esra Karaduman'dan alıntıdır.
     #Not: "Efsane Sensin" şarkısından alınıp bazı bölümler değiştirilmiştir.
